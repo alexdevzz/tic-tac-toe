@@ -6,44 +6,46 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/alexdevzz/tic-tac-toe?color=purple)
 ![Version](https://img.shields.io/badge/framework-react-blue)
 
-
-
 ## Description
-Este proyecto consiste en una aplicacion web moderna, dinámica y sencilla creada con la potente biblioteca (framework) de JavaScript React. Se trata del juego Tic-Tac-Toe para dos jugadores, aprovechando las ventajas y facilidades que ofrece React.
+This project consists of a modern, dynamic and simple web application created with the powerful JavaScript library (framework) React. It is a Tic-Tac-Toe game for two players, taking advantage of the advantages and facilities offered by React.
+
+![image](https://github.com/user-attachments/assets/d5568500-e547-4f97-88a4-fd6968a6dfec)
+
+
+
 
 ## Features
-- Desarrollado con Vite: Compilado de tercera generacion y ultra rapido con la herramienta Vite
-- Componentes Reutilizables: Construido con componentes modulares que facilitan la escalabilidad y el mantenimiento
-- Diseño Responsivo: Adaptable a cualquier dispositivo, desde teléfonos móviles hasta pantallas grandes
-- Interfaz de Usuario Minimalista: UI minimalista y sencilla utilizando React y CSS
-- LocalStorage: Utiliza el almacenamiento local del navegador para mantener el estado actual de la partida
-- Hooks Basicos: Desarrollado mediante el uso de los hooks UseEffect y UseState
-- Easy to use
+- Powered by Vite: Third-generation and ultra-fast build using the Vite tool
+- Reusable Components: Built with modular components that make scalability and maintenance easy
+- Responsive Design: Adaptable to any device, from mobile phones to large screens
+- Minimalist User Interface: Minimalist and simple UI using React and CSS
+- LocalStorage: Uses the browser's local storage to maintain the current state of the game
+- Basic Hooks: Developed using the UseEffect and UseState hooks
 
 ## Install
-1. Antes de continuar con la instalacion debes tener instalado en tu sistema operativo ```Node.js``` y ```npm```. En caso de no tenerlo proceda ha instalarlo.
+1. Before continuing with the installation you must have ```Node.js``` and ```npm``` installed on your operating system. If you do not have it, proceed to install it.
    
-2. Clonar este repositorio:
+2. Clone this repository:
    ```bash
    https://github.com/alexdevzz/tic-tac-toe.git
    ```
    
-3. Navega hacia el direcctorio del proyecto:
+3. Navigate to the project directory:
    ``` bash
-   cd nombre-del-directorio
+   cd directory-name
    ```
 
-4. Luego instala todas las dependencias del proyecto que se encuentran en el archivo ```package.json```:
+4. Then install all the project dependencies found in the ```package.json``` file:
    ``` bash
    npm install
    ```
 
-5. Una vez que las dependencias están instaladas, procede a iniciar la aplicación:
+5. Once the dependencies are installed, proceed to start the application:
    ``` bash
    npm run dev
    ```
 
-6. Listo !!!
+6. Ready !!!
 
 
 
