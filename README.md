@@ -1,7 +1,7 @@
 # Tic Tac Toe <img src="https://github.com/user-attachments/assets/7d4c5e46-9f71-455a-aad6-a2f8dcf49d2a" alt="React" width="25" height="20">
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Static Badge](https://img.shields.io/badge/build-in_deploy-red)
-![GitHub License](https://img.shields.io/github/license/alexdevzz/tic-tac-toe?color=gren)
+![GitHub License](https://img.shields.io/github/license/alexdevzz/tic-tac-toe?color=darkgren)
 ![GitHub Created At](https://img.shields.io/github/created-at/alexdevzz/tic-tac-toe?color=yellow)
 ![GitHub top language](https://img.shields.io/github/languages/top/alexdevzz/tic-tac-toe?color=purple)
 ![Version](https://img.shields.io/badge/framework-react-blue)
